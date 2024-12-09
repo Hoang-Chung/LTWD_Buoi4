@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\BTVN-B4\2280601755_Lê Kinh Hoàng Long_Buổi 4\bai4\bin\Debug\bai4.exe.config
+C:\Users\ADMIN\source\repos\BTVN-B4\2280601755_Lê Kinh Hoàng Long_Buổi 4\bai4\bin\Debug\bai4.exe
+C:\Users\ADMIN\source\repos\BTVN-B4\2280601755_Lê Kinh Hoàng Long_Buổi 4\bai4\bin\Debug\bai4.pdb
+C:\Users\ADMIN\source\repos\BTVN-B4\2280601755_Lê Kinh Hoàng Long_Buổi 4\bai4\obj\Debug\BTVN_Buoi4.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\BTVN-B4\2280601755_Lê Kinh Hoàng Long_Buổi 4\bai4\obj\Debug\bai4.form2.resources
+C:\Users\ADMIN\source\repos\BTVN-B4\2280601755_Lê Kinh Hoàng Long_Buổi 4\bai4\obj\Debug\bai4.form1.resources
+C:\Users\ADMIN\source\repos\BTVN-B4\2280601755_Lê Kinh Hoàng Long_Buổi 4\bai4\obj\Debug\bai4.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\BTVN-B4\2280601755_Lê Kinh Hoàng Long_Buổi 4\bai4\obj\Debug\BTVN_Buoi4.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\BTVN-B4\2280601755_Lê Kinh Hoàng Long_Buổi 4\bai4\obj\Debug\BTVN_Buoi4.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BTVN-B4\2280601755_Lê Kinh Hoàng Long_Buổi 4\bai4\obj\Debug\bai4.exe
+C:\Users\ADMIN\source\repos\BTVN-B4\2280601755_Lê Kinh Hoàng Long_Buổi 4\bai4\obj\Debug\bai4.pdb
